@@ -1,0 +1,11 @@
+lpips==0.1.4
+matplotlib==3.8.3
+numpy==2.0.0
+Pillow==10.3.0
+pytorch_fid==0.3.0
+scipy==1.14.0
+skimage==0.0
+# torch==1.13.1+cu116
+torchkeras==3.9.6
+# torchvision==0.14.1+cu116
+tqdm==4.66.4
